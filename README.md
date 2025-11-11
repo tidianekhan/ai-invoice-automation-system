@@ -20,7 +20,7 @@ When an email with attachments arrives, the flow automatically:
 ---
 
 ## 🔧 Flow Definition
-The exported JSON of this automation is available in [/flow/invoice-automation-flow.json](flow/invoice-automation-flow.json).  
+The exported JSON of this automation is available in [invoice-automation-powerautomate.json](invoice-automation-powerautomate.json).  
 All sensitive information has been removed. You can import this file directly into Power Automate to explore or extend the workflow.
 
 ---
