@@ -19,6 +19,12 @@ When an email with attachments arrives, the flow automatically:
 
 ---
 
+## 🔧 Flow Definition
+The exported JSON of this automation is available in [/flow/invoice-automation-flow.json](flow/invoice-automation-flow.json).  
+All sensitive information has been removed. You can import this file directly into Power Automate to explore or extend the workflow.
+
+---
+
 ## ⚙️ Tech Stack
 
 | Component | Description |
@@ -27,11 +33,6 @@ When an email with attachments arrives, the flow automatically:
 | **AI Builder (Form Processing)** | Extracts invoice details |
 | **Excel Online (Business)** | Stores processed, review, and duplicate logs |
 | **Outlook** | Trigger and email notifications |
-
----
-
-## 📄 Flow Logic Diagram
-*(See included image: `flow-diagram.png`)*
 
 ---
 
